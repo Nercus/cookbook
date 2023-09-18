@@ -1,0 +1,20 @@
+@use "../abstracts/fonts.scss" as *;
+@use "../abstracts/colors.scss" as *;
+
+p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+    font-family: $font-body;
+    color: $base-content;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: $font-heading;
+    color: $base-content;
+}
