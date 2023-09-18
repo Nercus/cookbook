@@ -1,18 +1,31 @@
-# Vue 3 + TypeScript + Vite
+<br/>
+<p align="center">
+  <a href="https://github.com/Nercus/Snippets">
+    <img src="TODO: add Logo" alt="Logo" width="80" height="80">
+  </a>
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+  <h3 align="center">Cookbook</h3>
 
-## Recommended IDE Setup
+  <p align="center">
+    An app to collect recipes in a nice format. (Portfolio project)
+    <br/>
+    <br/>
+  </p>
+</p>
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Type Support For `.vue` Imports in TS
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+## About The Project
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+This is a CRUD app to collect and organize recipes. It is a portfolio project that I am working on to expand my knowledge of web development. It is a work in progress and will be updated over time.
 
-1. Disable the built-in TypeScript Extension
-   1. Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-   2. Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+## Features
+
+- TODO: add features here
+
+## Built With
+
+- [Vite](https://vitejs.dev) - Frontend build tool
+- [Vue 3](https://v3.vuejs.org/) - Frontend framework
+- [Appwrite](https://appwrite.io/) - Codeless backend including a postgres database
+- TODO: continue list during development
