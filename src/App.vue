@@ -1,8 +1,6 @@
 <template>
   <div class="container">
-    <h1>Header</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis assumenda aperiam deserunt tenetur sint ab
-      architecto in, labore illo quos eligendi alias quis? Animi fuga officiis tempora eligendi tenetur placeat.</p>
+    <RouterView />
   </div>
 </template>
 
